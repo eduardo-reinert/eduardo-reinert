@@ -11,6 +11,17 @@
 
 <br><br>
 
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p>
+<a href="https://linkedin.com/in/eduardo-augusto-reinert-5606ab204/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/eduardo.reinert/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
 <!--
 **EduReinert/EduReinert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
