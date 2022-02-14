@@ -3,7 +3,7 @@
 
 - 🔥 Back-end developer
 
-- 🔭 Currently working as intern in **T-Systems Brasil**
+- 🔭 Currently working as an intern in **T-Systems Brazil**
 
 - 📖 Loves to study new programming and speaking languages
 
