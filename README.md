@@ -13,7 +13,7 @@
 
 - ⚡ *I used to be a dev like you, then I took an arrow in the knee*
 
-<br><br>
+<br>
 
 ## 🎭 &nbsp;Social Media
 
