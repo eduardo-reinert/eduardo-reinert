@@ -15,10 +15,10 @@
 
 <p>
 <a href="https://linkedin.com/in/eduardo-augusto-reinert-5606ab204/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-EduardoReinert-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Eduardo Augusto Reinert-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/eduardo.reinert/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-EduardoReinert-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-eduardo.reinert-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
