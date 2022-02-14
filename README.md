@@ -11,7 +11,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 🎭 &nbsp;Social Links
 
 <p>
 <a href="https://linkedin.com/in/eduardo-augusto-reinert-5606ab204/" target="_blank">
