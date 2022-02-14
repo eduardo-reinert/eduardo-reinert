@@ -5,9 +5,9 @@
 
 - 🔭 Currently working as intern in **T-Systems Brasil**
 
-- 🎮 Addicted to videogames and knowledge
-
 - 📖 Loves to study new programming and speaking languages
+
+- 🎮 Enjoy playing videogames 
 
 - 📤 Contact me for more info: eduardo.a.reinertt@gmail.com
 
