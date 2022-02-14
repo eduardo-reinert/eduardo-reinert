@@ -7,6 +7,8 @@
 
 - 🎮 Addicted to videogames and knowledge
 
+- 📖 Loves to study new programming and speaking languages
+
 - 📤 Contact me for more info
 
 - ⚡ *I used to be a dev like you, then I took an arrow in the knee*
