@@ -3,15 +3,17 @@
 
 - 🔥 Back-end developer
 
-- 🔭 Currently working as intern in T-Systems Brasil
+- 🔭 Currently working as intern in **T-Systems Brasil
 
 - 🎮 Addicted to videogames and knowledge
 
 - 📤 Contact me for more info
 
+- ⚡ *I used to be a dev like you, then I took an arrow in the knee
+
 <br><br>
 
-## 🎭 &nbsp;Social Links
+## 🎭 &nbsp;Social Media
 
 <p>
 <a href="https://linkedin.com/in/eduardo-augusto-reinert-5606ab204/" target="_blank">
