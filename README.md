@@ -11,7 +11,6 @@
 
 - 📤 Contact me for more info: eduardo.a.reinertt@gmail.com
 
-- ⚡ *I used to be a dev like you, then I took an arrow in the knee*
 
 <br>
 
