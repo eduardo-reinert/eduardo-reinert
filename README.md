@@ -3,11 +3,11 @@
 
 - 🔥 Back-end developer
 
-- 🔭 Currently working as: Programmer I | **T-Systems Brazil**
+- 🔭 Currently working as: Java Developer | **T-Systems Brazil**
 
-- 📖 Loves to study new programming and speaking languages
+- 📖 Eager to learn
 
-- 🎮 Enjoy playing videogames 
+- 🎮 Main hobby: playing videogames 
 
 - 📤 Contact me for more info: eduardo.a.reinertt@gmail.com
 
@@ -34,7 +34,7 @@
   <img align="center" src="https://img.shields.io/badge/-Eduardo Augusto Reinert-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/eduardo.reinert/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-eduardo.reinert-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Eduardo Reinertt-05122A?style=flat&logo=linktree" alt="linktree"/>
 </a>
 </p>
 <br>
