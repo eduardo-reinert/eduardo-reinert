@@ -34,7 +34,7 @@
   <img align="center" src="https://img.shields.io/badge/-Eduardo Augusto Reinert-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://linktr.ee/eduardoreinert" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Eduardo Reinertt-05122A?style=flat&logo=linktree" alt="linktree"/>
+ <img align="center" src="https://img.shields.io/badge/-Eduardo Reinert-05122A?style=flat&logo=linktree" alt="linktree"/>
 </a>
 </p>
 <br>
