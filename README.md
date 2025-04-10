@@ -33,7 +33,7 @@
 <a href="https://linkedin.com/in/eduardo-augusto-reinert-5606ab204/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Eduardo Augusto Reinert-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/eduardo.reinert/" target="_blank">
+<a href="https://linktr.ee/eduardoreinert" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Eduardo Reinertt-05122A?style=flat&logo=linktree" alt="linktree"/>
 </a>
 </p>
