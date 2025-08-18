@@ -1,13 +1,11 @@
 ##  &nbsp;Hello there, I'm Eduardo Reinert 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EduReinert&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Back-end developer
+- 🔥 Software Developer
 
-- 🔭 Currently working as: Java Developer | **T-Systems Brazil**
+- 🔭 Currently working as: IT Development Analyst | **T-Systems Brazil**
 
 - 📖 Eager to learn
-
-- 🎮 Main hobby: playing videogames 
 
 - 📤 Contact me for more info: eduardo.a.reinertt@gmail.com
 
