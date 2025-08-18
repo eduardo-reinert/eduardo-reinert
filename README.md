@@ -8,8 +8,8 @@
 - 📖 Eager to learn
 
 - 📤 Contact me for more info:
-  - eduardo.a.reinertt@gmail.com
-  - https://www.linkedin.com/in/eduardoreinert/
+  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](eduardo.a.reinertt@gmail.com): eduardo.a.reinertt@gmail.com
+  - [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/eduardoreinert/): https://www.linkedin.com/in/eduardoreinert/
 
 
 <br>
@@ -17,10 +17,9 @@
 ## 🛠 &nbsp;Knowledge
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
 <br>
