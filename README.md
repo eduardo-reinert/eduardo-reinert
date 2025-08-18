@@ -3,8 +3,8 @@
 <p><em>Software Developer at </em><a href="https://www.t-systems.com/br/pt">T-Systems</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" width="30">
 <p><em>Computer Science bachelor at </em><a href="https://www.furb.br/pt">FURB</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-[![Linkedin: eduardoreinert](https://img.shields.io/badge/-eduardoreinert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoreinert/)](https://www.linkedin.com/in/eduardoreinert/)
-[![GitHub: eduardo-reinert](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/eduardo-reinert)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/eduardoreinert/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/eduardo-reinert)
 
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> About myself...
