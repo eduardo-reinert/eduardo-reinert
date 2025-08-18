@@ -7,7 +7,9 @@
 
 - 📖 Eager to learn
 
-- 📤 Contact me for more info: eduardo.a.reinertt@gmail.com
+- 📤 Contact me for more info:
+  - eduardo.a.reinertt@gmail.com
+  - https://www.linkedin.com/in/eduardoreinert/
 
 
 <br>
@@ -20,16 +22,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-<br>
-
-## 🎭 &nbsp;Social Media
-
-<p>
-<a href="https://linkedin.com/in/eduardo-augusto-reinert-5606ab204/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Eduardo Augusto Reinert-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://linktr.ee/eduardoreinert" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Eduardo Reinert-05122A?style=flat&logo=linktree" alt="linktree"/>
-</a>
-</p>
 <br>
