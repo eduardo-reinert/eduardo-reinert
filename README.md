@@ -7,7 +7,7 @@
 [![GitHub: eduardo-reinert](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/eduardo-reinert)
 
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> A little more about me...  
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> About myself...
 
 ```javascript
 const eduardo = {
@@ -19,7 +19,8 @@ const eduardo = {
     learner: React,
     developer: Java
   },
-  today: "Currently learning React while building on my Java background"
+  today: "Currently learning React while building on my Java background",
+  hobbies: ["gaming", "watch TV", "sleep"]
 }
 
 
