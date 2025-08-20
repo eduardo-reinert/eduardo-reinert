@@ -11,7 +11,6 @@
 
 ```javascript
 const eduardo = {
-  pronouns: "he | him",
   code: [Java, React],
   tools: [SpringBoot, Node, Git, Maven],
   architecture: ["microservices", "REST_APIs"],
@@ -19,8 +18,7 @@ const eduardo = {
     learner: React,
     developer: Java
   },
-  today: "Currently learning React while building on my Java background",
-  hobbies: ["gaming", "watch TV", "sleep"]
+  today: "Currently learning React while building on my Java background"
 }
 
 
