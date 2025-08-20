@@ -14,10 +14,6 @@ const eduardo = {
   code: [Java, React],
   tools: [SpringBoot, Node, Git, Maven],
   architecture: ["microservices", "REST_APIs"],
-  techCommunities: {
-    learner: React,
-    developer: Java
-  },
   today: "Currently learning React while building on my Java background"
 }
 
